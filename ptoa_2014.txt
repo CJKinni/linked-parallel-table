@@ -1,9 +1,7 @@
 
-<R02>
-                 PARALLEL TABLE OF AUTHORITIES AND RULES
 
+             LINKED PARALLEL TABLE OF AUTHORITIES AND RULES
 
-<R03>
 
   --------------------------------------------------------------------
 
@@ -11,26 +9,37 @@
 for regulations codified in the Code of Federal Regulations. Also 
 included are statutory citations which are noted as being interpreted or 
 applied by those regulations.
+
   The table is divided into four segments: United States Code citations, 
-United States Statutes at Large citations, public law citations, and 
+United States Stats at Large citations, public law citations, and 
 Presidential document citations. Within each segment the citations are 
 arranged in numerical order:
+
   For the United States Code, by title and section;
-  For the United States Statutes at Large, by volume and page number;
+  For the United States Stats at Large, by volume and page number;
   For public laws, by number; and
   For Presidential documents (Proclamations, Executive orders, and 
 Reorganization plans), by document number.
+
   Entries in the table are taken directly from the rulemaking authority 
 citation provided by Federal agencies in their regulations. Federal 
 agencies are responsible for keeping these citations current and 
 accurate. Because Federal agencies sometimes present these citations in 
 an inconsistent manner, the table cannot be considered all-inclusive.
+
   The portion of the table listing the United States Code citations is 
 the most comprehensive, as these citations are entered into the table 
 whenever they are given in the authority citations provided by the 
-agencies. United States Statutes at Large and public law citations are 
+agencies. United States Stats at Large and public law citations are 
 carried in the table only when there are no corresponding United States 
 Code citations given.
+
+  This table includes links to the United States Code and Code of
+Federal Regulations.  Additional links to other sources of laws will be
+added eventually.  To assist with the creation of this list, feel free
+to contact Christopher Kinniburgh at info@ckinniburgh.com or contribute
+code on <a href="https://github.com/ckinniburgh/Linked-Parallel-Table/">GitHub</a>.
+
   This table is revised as of January 1, 2014.
 1 U.S.C.
   112...........................................................1 Part 2
